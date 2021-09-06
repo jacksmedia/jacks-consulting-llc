@@ -18,8 +18,8 @@ const Footblur = () => {
           layout="fixed"
           formats={["AUTO", "WEBP", "AVIF"]}
           src="../images/eth.svg"
-          width={40}
-          height={64}
+          width={30}
+          height={48}
           quality={95}
           alt="Ethereum symbol"
         />
@@ -31,8 +31,8 @@ const Footblur = () => {
           layout="fixed"
           formats={["AUTO", "WEBP", "AVIF"]}
           src="../images/btc.svg"
-          width={64}
-          height={64}
+          width={48}
+          height={48}
           quality={95}
           alt="Bitcoin symbol"
         />
