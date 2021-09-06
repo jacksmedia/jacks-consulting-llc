@@ -1,5 +1,5 @@
 ---
-title: Tai Chi (Tai Ji) & Qi-Gong
+title: Tai Chi (Tai Ji) & Qi-Gong (not mine 😅)
 date: "2021-09-06T12:51:51.217Z"
 description: These videos can help your body heal & grow much, much stronger
 ---
