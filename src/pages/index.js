@@ -41,11 +41,11 @@ const BlogIndex = ({ data, location }) => {
             const title = post.frontmatter.title || post.fields.slug
 
             return (
-              <IO rootMargin = '-50px'>
+              <IO rootMargin = '-10px'>
               {({isVisible})=>(
-                <Post key={post.fields.slug} isVisible={isVisible}>
+                <Post key={post.fields.slug} isVisible={isVisible} className="svg-hexes-snowfall">
                   <article
-                    className="post-list-item chromatic"
+                    className="post-list-item svg-hexes"
                     itemScope
                     itemType="http://schema.org/Article"
                   >
@@ -56,11 +56,11 @@ const BlogIndex = ({ data, location }) => {
                       }}
                      />
                     <header>
-                      <h2 className="bold">
+                      <h1 className="bold chromatic">
                         <AniLink paintDrip to={post.fields.slug} itemProp="url">
                           <span itemProp="headline">{title}</span>
                         </AniLink>
-                      </h2>
+                      </h1>
                     </header>
                     <section>
                       <p

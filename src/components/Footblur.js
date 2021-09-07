@@ -12,7 +12,8 @@ const Footblur = () => {
         {`, `}{new Date().getFullYear()}</p>
       </div>
       <div className="bottommost-text">
-        <div>
+        <div className="center">
+        <h5 className="engraved">Donate ETH</h5>
         <StaticImage
           className="tiny-icon"
           layout="fixed"
@@ -25,7 +26,8 @@ const Footblur = () => {
         />
         <h5 className="engraved">{ethWallet}</h5>
       </div>
-      <div>
+      <div className="center">
+        <h6 className="engraved">Donate Bitcoin</h6>
         <StaticImage
           className="tiny-icon"
           layout="fixed"
