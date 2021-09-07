@@ -15,15 +15,15 @@ When a person puts money on chain and uses DeFi tools, they become a banker, not
 
 # 🤔 Am I Being Facetious with Three-Digit Annual Returns?
 
-This can't be real, you're likely thinking to yourself. Well, have no fear, it may be extremely new and delightfully unregulated but it is very, very real. The COVID-19 pandemic forced my mind into new ventures and I've learned just enough to become dangerously self-empowered by DeFi. I'm writing up posts and wesbites to share my findings and help redistribute wealth globally. With enough readership I'll hopefully build a tiny media empire in the process, and I'm going to teach you how to do this, too. It's all about open source software and taking your own, clear notes in your own best way.
+This can't be real, you're likely thinking to yourself. Well, have no fear, it may be extremely new and delightfully unregulated but it is very, very real. The COVID-19 pandemic forced my mind into new ventures and I've learned just enough to become dangerously self-empowered by DeFi. I'm writing up posts and websites to share my findings and help redistribute wealth globally. With enough readership I'll hopefully build a tiny media empire in the process, and I'm going to teach you how to do this, too. It's all about open source software and taking your own, clear notes in your own, best way.
 
 # 🔐 Be Careful! You Are In Charge!
 
-When your money goes on chain, **you** have the only security keys. No power or force in this world or beyond can remove or alter your money, friend. You have become a captain of your own destiny.
+When your money goes on chain, **you** have the only security keys. No power or force in this world or beyond can remove or alter your money, friend. You have become the captain of your own destiny.
 
 # 🥰 How to Respect Your Own Awesome Power?
 
-Write down the Twleve Words that equal your blockchain wallet, and keep this paper safe. Don't fully memorize it, or someday you'll rely on that alone and it'll fail to show up and you'll stress the heck out and go into a crazy spiral for who knows how long-- trust me, I've been there. DO NOT take a pic of it, or upload it into any software: AI spiders are already out there, crawling through accounts on the hunt for likely crypto wallet phrases (sets of 12 random words). So please, for the sake of future you, write down your Dozen Words without saving them digitally and then sit back, pat yourself on the back, and realise that you and only you are 100% responsible for your crypto money in that wallet. Rejoice!
+Write down the Twelve Words that equal your blockchain wallet, and keep this paper safe. Don't fully memorize it, or someday you'll rely on that alone and it'll fail to show up and you'll stress the heck out and go into a crazy spiral for who knows how long-- trust me, I've been there. DO NOT take a pic of it, or upload it into any software: AI spiders are already out there, crawling through accounts on the hunt for likely crypto wallet phrases (sets of 12 random words). So please, for the sake of future you, write down your Dozen Words without saving them digitally and then sit back, pat yourself on the back, and realise that you and only you are 100% responsible for your crypto money in that wallet. Rejoice!
 
 <figure>
 <img src="./dungeonswap.png" alt="DungeonSwap Mobile Screencap" style="width:100%">
