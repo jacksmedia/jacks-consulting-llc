@@ -218,7 +218,14 @@ ul, ol {
   border-radius: 100%;
 }
 
+.landingpage-blogtitle {
+  font-size: 6vw;
+  line-height: 120%;
+}
 
+.glowy-text {
+  text-shadow: 2px 0px 2px $jacks-blue, 0px 2px 2px $jacks-blue;
+}
 
 
 /* animations code */
@@ -341,5 +348,3 @@ a:focus {
   from {opacity: 1}
   to {opacity: 0}
 }
-
-

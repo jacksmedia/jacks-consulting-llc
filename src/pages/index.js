@@ -13,7 +13,7 @@ const Post = styled.li`
   padding: 2rem;
   margin: 4.85rem 0.85rem 1.85rem 0.85rem;
   transition: background-color 3.3s ease;
-  background-color: ${({ isVisible }) => (isVisible ? 'snow' : ' black')};
+  background-color: ${({ isVisible }) => (isVisible ? 'snow' : ' chocolate')};
 `
 
 const BlogIndex = ({ data, location }) => {
@@ -56,7 +56,7 @@ const BlogIndex = ({ data, location }) => {
                       }}
                      />
                     <header>
-                      <h1 className="bold chromatic">
+                      <h1 className="landingpage-blogtitle glowy-text">
                         <AniLink paintDrip to={post.fields.slug} itemProp="url">
                           <span itemProp="headline">{title}</span>
                         </AniLink>

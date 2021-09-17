@@ -1,7 +1,7 @@
 ---
 title: Jacks Consulting LLC 💰🧐
 date: "2021-09-11T08:46:40.007Z"
-description: Did you ever believe that freelance banking would be a thing?
+description: Did you ever believe that ✨freelance banking✨ would be a thing?
 ---
 > Nothing Below is Financial Advice
 
@@ -57,5 +57,4 @@ The Stylish RPG-Themed Dungeonswap offers the highest yield I've seen so far
 # 🛬 What can you do with DeFi
 So, to recap this idea: when you have some money on BSC, what can you do (besides send it, HODL, or speculatively trade it back and forth with stablecoin)? You can use Dexes and Swaps like [Pancakeswap](https://pancakeswap.finance), [Jetswap Finance](https://jetswap.finance), [Dungeonswap](https://dungeonswap.app), and more to stake your money for incredible returns.
 
-
-I'm going to write more, very soon. Stay tuned to [this SSD site](https://silversidedown.com) for info on how to stake your BSC in Pools and Farms.
+Stay tuned to [Silverside Down](https://silversidedown.com) for more crypto guidance, as well as some logistical pointers on how to stake and pool your wealth.
