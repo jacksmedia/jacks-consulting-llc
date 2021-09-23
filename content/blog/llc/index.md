@@ -57,4 +57,7 @@ The Stylish RPG-Themed Dungeonswap offers the highest yield I've seen so far
 # 🛬 What can you do with DeFi
 So, to recap this idea: when you have some money on BSC, what can you do (besides send it, HODL, or speculatively trade it back and forth with stablecoin)? You can use Dexes and Swaps like [Pancakeswap](https://pancakeswap.finance), [Jetswap Finance](https://jetswap.finance), [Dungeonswap](https://dungeonswap.app), and more to stake your money for incredible returns.
 
-Stay tuned to [Silverside Down](https://silversidedown.com) for more crypto guidance, as well as some logistical pointers on how to stake and pool your wealth.
+# Check out this Site
+I'm working on a logistical guide for anyone curious about cryptocurrency and DeFi. It's still in an early access phase, so check it out and grab some free pointers and tips!
+
+## [Silverside Down](https://www.silversidedown.com)
