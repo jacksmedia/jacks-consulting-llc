@@ -14,6 +14,7 @@ description: These videos can help your body heal & grow much, much stronger
 *(to skip the repeats of modules 1 & 3 jump ahead to 9:42 & 23:42, respectively)*
 - [Spinning the Silken Wheel (shoulder)](https://www.youtube.com/watch?v=LZ2oHU-mMJI)
 - [Qi Gong for Anxiety](https://www.youtube.com/watch?v=ED3_i_xVd_s)
+- [Sitting Qigong from Wudang, China](https://www.youtube.com/watch?v=5TDWIsPoawQ)
 
 # Marisa's YoQi
 - [🛣🌊 Beginners' Flow](https://www.youtube.com/watch?v=IyINAjEoTIs)
