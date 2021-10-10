@@ -116,7 +116,11 @@ table {
   border-spacing: 0.25rem;
 }
 
-
+figure {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  padding-bottom: 1.5rem;
+  margin-bottom: 3.5rem;
+}
 
 /* It Begins To Customise Its Code */
 
@@ -149,13 +153,15 @@ table {
 }
 
 .blog-post header {
-  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
-  padding: -1.2rem 0rem 0rem 10rem;
-  margin-bottom: 5vh;
+  margin-bottom: 2rem;
 }
 .blog-post header {
   font-size: 2.3rem;
   padding: 0.5vh;
+}
+
+.blog-post * {
+  padding-right: 3rem;
 }
 
 ul, ol {
