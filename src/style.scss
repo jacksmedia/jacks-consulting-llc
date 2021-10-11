@@ -56,7 +56,7 @@ hr {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-heading);
-  margin-top: 3vh;
+  margin-top: 2vh;
   margin-bottom: var(--spacing-6);
   line-height: var(--lineHeight-tight);
   letter-spacing: -0.025em;
@@ -85,8 +85,7 @@ p {
   --baseline-multiplier: 0.179;
   --x-height-multiplier: 0.35;
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0);
-  margin-bottom: 2vh;
-  padding: var(--spacing-0);
+  padding: var(--spacing-2);
 }
 
 blockquote {
@@ -161,7 +160,7 @@ figure {
 }
 
 .blog-post * {
-  padding-right: 3rem;
+  padding-right: 1.3rem;
 }
 
 ul, ol {
