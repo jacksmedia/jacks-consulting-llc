@@ -92,11 +92,11 @@ blockquote {
   color: var(--color-text-light);
   margin-left: calc(-1 * var(--spacing-6));
   margin-right: var(--spacing-8);
+  margin-bottom: var(--spacing-8);
   padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6);
   border-left: var(--spacing-1) solid var(--color-primary);
   font-size: var(--fontSize-2);
   font-style: italic;
-  margin-bottom: var(--spacing-8);
 }
 
 blockquote {
@@ -148,7 +148,7 @@ figure {
 .blog-post {
   background: snow;
   padding-left: 3vw;
-  padding-rift: 3vw;
+  padding-right: 3vw;
 }
 
 .blog-post header {
@@ -159,7 +159,7 @@ figure {
   padding: 0.5vh;
 }
 
-.blog-post * {
+.blog-post p {
   padding-right: 1.3rem;
 }
 
