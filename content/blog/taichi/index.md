@@ -8,7 +8,7 @@ description: These videos can help your body heal & grow much, much stronger
 - [Module ⓵ ](https://www.youtube.com/watch?v=cEOS2zoyQw4)
 - [Module ⓶ ](https://www.youtube.com/watch?v=enk0bOv-gF8)
 - [Module ⓷ ](https://www.youtube.com/watch?v=OPcZlXYcdMA)
-- [Module ⓸ ](https://www.youtube.com/watch?v=HOO2fDebA6o)
+- [Module ⓸ ](https://www.youtube.com/watch?v=RoIqYtiTLFI)
 - [Module ⓹ ](https://www.youtube.com/watch?v=62a20CiIAlY)
 - [Modules ⓵~⓹ ](https://www.youtube.com/watch?v=hv7xwJuQuQc)
 *(to skip the repeats of modules 1 & 3 jump ahead to 9:42 & 23:42, respectively)*
@@ -17,6 +17,7 @@ description: These videos can help your body heal & grow much, much stronger
 - [Sitting Qigong from Wudang, China](https://www.youtube.com/watch?v=5TDWIsPoawQ)
 
 # Marisa's YoQi
+- [😸💗 Mood Lifter](https://www.youtube.com/watch?v=HMbT-CPVl2k)
 - [🛣🌊 Beginners' Flow](https://www.youtube.com/watch?v=IyINAjEoTIs)
-- [🌄🌌 Daily Practice](https://www.youtube.com/watch?v=nmmNWj9YtAw)
 - [🚪⚡️ Ming Men ~ Door of Life](https://www.youtube.com/watch?v=8wddPSIEpvE)
+- [🌄🌌 Daily Practice](https://www.youtube.com/watch?v=nmmNWj9YtAw)
