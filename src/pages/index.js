@@ -45,7 +45,7 @@ const BlogIndex = ({ data, location }) => {
               {({isVisible})=>(
                 <Post key={post.fields.slug} isVisible={isVisible} className="svg-hexes-snowfall">
                   <article
-                    className="post-list-item svg-hexes"
+                    className="post-list-item fuji-flags center"
                     itemScope
                     itemType="http://schema.org/Article"
                   >
@@ -56,14 +56,14 @@ const BlogIndex = ({ data, location }) => {
                       }}
                      />
                     <header>
-                      <h1 className="landingpage-blogtitle glowy-text">
+                      <h2 className="landingpage-blogtitle glowy-text">
                         <AniLink paintDrip to={post.fields.slug} itemProp="url">
                           <span itemProp="headline">{title}</span>
                         </AniLink>
-                      </h1>
+                      </h2>
                     </header>
                     <section>
-                      <p
+                      <span
                         dangerouslySetInnerHTML={{
                           __html: post.frontmatter.description || post.excerpt,
                         }}

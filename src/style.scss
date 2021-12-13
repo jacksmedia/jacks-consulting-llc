@@ -125,8 +125,20 @@ figure {
 
 .center {
   display: flex;
-  flex-direction: column wrap;
+  flex-wrap: row nowrap;
+  justify-content: space-around;
+  align-items: center;
 }
+.center-tightly {
+  display: flex;
+  flex-wrap: row nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
 
 .mains {
   padding: 0rem 0.5rem 20rem 0rem;
@@ -139,6 +151,10 @@ figure {
 .svg-hexes-snowfall {
   background: linear-gradient(to bottom right, rgba(255,255,255,1.0),rgba(255,255,255,0.2));
   z-index: 30;
+}
+.fuji-flags {
+  z-index: 20;
+  background-image: url(images/down-fuji.jpg);
 }
 .svg-hexes {
   z-index: 20;
@@ -155,14 +171,18 @@ figure {
   margin-bottom: 2rem;
 }
 .blog-post header {
-  font-size: 2.3rem;
+  font-size: 2.1rem;
   padding: 0.5vh;
 }
 
 .post-lede {
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   padding-right: 1.3rem;
   padding-top: 1.3rem;
+  line-height: 4rem;
+  color: #ffffff;
+  text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 15px #ffffff, 0 0 20px #49ff18, 0 0 30px #49ff18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18;
+  ;
 }
 
 ul, ol {
@@ -226,7 +246,7 @@ ul, ol {
 }
 
 .landingpage-blogtitle {
-  font-size: 6vw;
+  font-size: 3.2rem;
   line-height: 120%;
 }
 

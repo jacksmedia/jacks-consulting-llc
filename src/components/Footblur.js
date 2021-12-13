@@ -2,8 +2,10 @@ import * as React from "react"
 import { StaticImage } from "gatsby-plugin-image"
 
 const Footblur = () => {
-  const ethWallet = "0xfe130864ccFfA959C2cAd1A96bC5c625748130b5"
-  const btcWallet = "1G4zZpnha3RvdbMxujreWhChXaeTvo3E62"
+  const ethWallet = "j4cks.eth"
+  const egldWallet = "j4cks.elrond"
+  const rvnWallet = "RQtZXhTftR4w7Asb2WModw2zEs6dLwWfmx"
+  const btcWallet = "bc1q3jmlqvpkta0jywy87edd97v9yu7jv74xu0fhy4"
   return(
     <div className="footsie">
       <div className="floatybox">
@@ -12,8 +14,33 @@ const Footblur = () => {
         {`, `}{new Date().getFullYear()}</p>
       </div>
       <div className="bottommost-text">
-        <div className="center">
-        <h5 className="engraved">Donate ETH</h5>
+        <div className="center-tightly">
+        <StaticImage
+          className="tiny-icon"
+          layout="fixed"
+          formats={["AUTO", "WEBP", "AVIF"]}
+          src="../images/rvncoin.svg"
+          width={48}
+          height={48}
+          quality={95}
+          alt="Ravencoin symbol"
+        />
+        <h6 className="engraved">{rvnWallet}</h6>
+        </div>
+        <div className="center-tightly">
+        <StaticImage
+          className="tiny-icon"
+          layout="fixed"
+          formats={["AUTO", "WEBP", "AVIF"]}
+          src="../images/egld.svg"
+          width={48}
+          height={48}
+          quality={95}
+          alt="Egold symbol"
+        />
+        <h6 className="engraved">{egldWallet}</h6>
+        </div>
+        <div className="center-tightly">
         <StaticImage
           className="tiny-icon"
           layout="fixed"
@@ -26,8 +53,7 @@ const Footblur = () => {
         />
         <h5 className="engraved">{ethWallet}</h5>
       </div>
-      <div className="center">
-        <h6 className="engraved">Donate Bitcoin</h6>
+      <div className="center-tightly">
         <StaticImage
           className="tiny-icon"
           layout="fixed"
