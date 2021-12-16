@@ -45,7 +45,7 @@ const BlogIndex = ({ data, location }) => {
               {({isVisible})=>(
                 <Post key={post.fields.slug} isVisible={isVisible} className="svg-hexes-snowfall">
                   <article
-                    className="post-list-item fuji-flags center"
+                    className="post-list-item svg-hexes center"
                     itemScope
                     itemType="http://schema.org/Article"
                   >
