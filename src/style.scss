@@ -125,7 +125,7 @@ figure {
 
 .center {
   display: flex;
-  flex-wrap: row nowrap;
+  flex-wrap: row wrap;
   justify-content: space-around;
   align-items: center;
 }
@@ -137,49 +137,47 @@ figure {
 }
 
 
-
-
-
 .mains {
   padding: 0rem 0.5rem 20rem 0rem;
 }
 .post-list-item {
   line-height: 2rem;
-  min-height: 70vh;
+  min-height: 50vh;
 }
 
 .svg-hexes-snowfall {
   background: linear-gradient(to bottom right, rgba(255,255,255,1.0),rgba(255,255,255,0.2));
   z-index: 30;
 }
-.fuji-flags {
-  z-index: 20;
-  background-image: url(images/down-fuji.jpg);
-}
+
 .svg-hexes {
   z-index: 20;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='49' viewBox='0 0 28 49'%3E%3Cg fill-rule='evenodd'%3E%3Cg id='hexagons' fill='%23fffafa' fill-opacity='0.26' fill-rule='nonzero'%3E%3Cpath d='M13.99 9.25l13 7.5v15l-13 7.5L1 31.75v-15l12.99-7.5zM3 17.9v12.7l10.99 6.34 11-6.35V17.9l-11-6.34L3 17.9zM0 15l12.98-7.5V0h-2v6.35L0 12.69v2.3zm0 18.5L12.98 41v8h-2v-6.85L0 35.81v-2.3zM15 0v7.5L27.99 15H28v-2.31h-.01L17 6.35V0h-2zm0 49v-8l12.99-7.5H28v2.31h-.01L17 42.15V49h-2z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 }
 
 .blog-post {
-  background: lilac;
+  background-color: chocolate;
   padding-left: 3vw;
   padding-right: 3vw;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 .blog-post header {
-  margin-bottom: 2rem;
+  margin-bottom: 4rem;
 }
 .blog-post header {
-  font-size: 1.23rem;
+  font-size: 22px;
   padding: 0.35vh;
 }
 
 .post-lede {
-  font-size: 1.23rem;
+  font-size: 14px;
   padding-right: 0.93rem;
-  padding-top: 0.93rem;
-  line-height: 10rem;
+  padding-top: 1.93rem;
+  line-height: 2rem;
 }
 
 ul, ol {
@@ -243,8 +241,7 @@ ul, ol {
 }
 
 .landingpage-blogtitle {
-  font-size: 3.2rem;
-  line-height: 120%;
+  line-height: 105%;
 }
 
 .glowy-text {
