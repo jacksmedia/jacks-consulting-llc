@@ -43,6 +43,7 @@ const BlogIndex = ({ data, location }) => {
             return (
               <IO rootMargin = '-10px'>
               {({isVisible})=>(
+              <AniLink paintDrip to={post.fields.slug} itemProp="url">
                 <Post key={post.fields.slug} isVisible={isVisible} className="svg-hexes-snowfall">
                   <article
                     className="post-list-item svg-hexes"
@@ -55,24 +56,19 @@ const BlogIndex = ({ data, location }) => {
                         alt: `featured image thumbnail for post ${post.frontmatter.title}`,
                       }}
                      />
-                    <header>
-                      <h2 className="landingpage-blogtitle glowy-text">
-                        <AniLink paintDrip to={post.fields.slug} itemProp="url">
-                          <span itemProp="headline">{title}</span>
-                        </AniLink>
-                      </h2>
-                    </header>
-                    <section>
-                      <span
-                        dangerouslySetInnerHTML={{
-                          __html: post.frontmatter.description || post.excerpt,
-                        }}
-                        itemProp="description"
-                        className="post-lede"
-                      />
-                    </section>
+                    <h2 className="landingpage-blogtitle glowy-text">
+                      <span itemProp="headline">{title}</span>
+                    </h2>
+                    <span
+                      dangerouslySetInnerHTML={{
+                        __html: post.frontmatter.description || post.excerpt,
+                      }}
+                      itemProp="description"
+                      className="post-lede"
+                    />
                   </article>
                 </Post>
+              </AniLink>
               )}
               </IO>
             )
