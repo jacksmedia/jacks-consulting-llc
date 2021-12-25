@@ -3,8 +3,8 @@ import { StaticImage } from "gatsby-plugin-image"
 
 const Footblur = () => {
   const ethWallet = "j4cks.eth"
-  const egldWallet = "j4cks.elrond"
-  const rvnWallet = "RQtZXhTftR4w7Asb2WModw2zEs6dLwWfmx"
+  const egldWallet = "@j4cks"
+  const rvnWallet = "RDhE9ZEEcRn38x5tQiYvv9gT7MXfwL82By"
   const btcWallet = "bc1q3jmlqvpkta0jywy87edd97v9yu7jv74xu0fhy4"
   return(
     <div className="footsie">
@@ -20,7 +20,7 @@ const Footblur = () => {
           layout="fixed"
           formats={["AUTO", "WEBP", "AVIF"]}
           src="../images/rvncoin.svg"
-          width={48}
+          width={35}
           height={48}
           quality={95}
           alt="Ravencoin symbol"
@@ -45,26 +45,26 @@ const Footblur = () => {
           className="tiny-icon"
           layout="fixed"
           formats={["AUTO", "WEBP", "AVIF"]}
-          src="../images/eth.svg"
-          width={30}
+          src="../images/btc.svg"
+          width={48}
           height={48}
           quality={95}
           alt="Ethereum symbol"
         />
-        <h5 className="engraved">{ethWallet}</h5>
+        <h5 className="engraved">{btcWallet}</h5>
       </div>
       <div className="center-tightly">
         <StaticImage
           className="tiny-icon"
           layout="fixed"
           formats={["AUTO", "WEBP", "AVIF"]}
-          src="../images/btc.svg"
-          width={48}
+          src="../images/eth.svg"
+          width={30}
           height={48}
           quality={95}
           alt="Bitcoin symbol"
         />
-        <h6 className="engraved">{btcWallet}</h6>
+        <h6 className="engraved">{ethWallet}</h6>
       </div>
       </div>
     </div>
