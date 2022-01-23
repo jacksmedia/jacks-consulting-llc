@@ -3,7 +3,7 @@ import { StaticImage } from "gatsby-plugin-image"
 
 const Footblur = () => {
   const ethWallet = "j4cks.eth"
-  const egldWallet = "@j4cks"
+  const egldWallet = "erd159mypt4myss3mqrs89ft0hjeacffks2690gq9u3mlh73m9sh0w5s09eqhh"
   const rvnWallet = "RDhE9ZEEcRn38x5tQiYvv9gT7MXfwL82By"
   const btcWallet = "bc1q3jmlqvpkta0jywy87edd97v9yu7jv74xu0fhy4"
   return(

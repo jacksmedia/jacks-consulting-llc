@@ -34,5 +34,7 @@ Closer view of the 2 Polaris (AMD Sapphire) graphics cards; this motherboard can
 
 The mine sends its production directly to my blockchain wallet (Trust Wallet). I receive 50 RVN each batch, which is about US$5 at time of writing. These GPUs are pretty well optimized to run quietly and cheaply while still mining well-- I did this using the vendor's own drivers, modifying settings manually.
 
+## [Learn to Mine Ravencoin](https://www.miningravencoin.com)
+
 
 ## [Current stats of my RavenCoin Mine](https://rvn.nanopool.org/account/RDhE9ZEEcRn38x5tQiYvv9gT7MXfwL82By)
