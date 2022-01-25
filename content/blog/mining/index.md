@@ -7,6 +7,8 @@ description: I built a small crypto mining rig in 2017
 
 While aware of Bitcoin for years, I didn't take enough notice of cryptocurrency until I learned about smart contracts and Ethereum in 2017. Deeply impressed that I'd glimpsed a scrap of the future, I sold old collectibles and other memorabilia to buy Ether, then ultimately decided to build a mining computer in order to generate the crypto myself.
 
+> ## [Learn to Mine Ravencoin](https://www.miningravencoin.com)
+
 <figure>
 <img src="./outerrig.png" alt="computer guts on a dresser" style="width:100%">
 <figcaption align="center">
