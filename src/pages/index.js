@@ -13,7 +13,7 @@ const Post = styled.li`
   padding: 2rem;
   margin: 4.85rem 0.85rem 1.85rem 0.85rem;
   transition: background-color 3.3s ease;
-  background-color: ${({ isVisible }) => (isVisible ? 'snow' : ' chocolate')};
+  background-color: ${({ isVisible }) => (isVisible ? 'snow' : ' navy')};
 `
 
 const BlogIndex = ({ data, location }) => {
