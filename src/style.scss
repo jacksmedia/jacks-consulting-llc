@@ -114,7 +114,9 @@ table {
   border-collapse: collapse;
   border-spacing: 0.25rem;
 }
-
+td {
+  line-height: 150%;
+}
 figure {
   box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
   padding-bottom: 1.5rem;
@@ -162,20 +164,20 @@ figure {
 
 .blog-post {
   background-color: snow;
-  padding-left: 3vw;
-  padding-right: 3vw;
+  padding-left: 2vw;
+  padding-right: 2vw;
 }
 
 .landingpage-blogtitle {
   line-height: 105%;
-  font-size: 6vw;
+  font-size: 4vw;
 }
 
 .post-lede {
-  font-size: 3vw;
-  padding-right: 0.93rem;
-  padding-top: 1.93rem;
-  line-height: 2rem;
+  font-size: 2.15vw;
+  padding-right: 0.7rem;
+  padding-top: 0.7rem;
+  line-height: 1.4rem;
 }
 
 ul, ol {
@@ -194,8 +196,8 @@ ul, ol {
 }
 
 .post-headline {
-  padding-top: 4rem;
-  padding-bottom: 7rem;
+  padding-top: 2rem;
+  padding-bottom: 4rem;
 }
 
 
@@ -224,16 +226,35 @@ ul, ol {
   justify-content: space-around;
 }
 
-.bio-tile {
-  padding: 1.45rem;
+/* nine square table on taichi/ */
+.tint-1 {
+  background: linear-gradient(0deg, purple 0%, rgba(2,0,94,1) 100%);
+}
+.tint-2 {
+  background: linear-gradient(0deg, snow 0%, rgba(99,99,99,1) 100%);
+}
+.tint-3 {
+  background: linear-gradient(0deg, red 0%, rgba(99,99,99,1) 100%);
+}
+.tint-4 {
+  background: linear-gradient(0deg, green 0%, rgba(99,99,99,1) 100%);
+}
+.tint-5 {
+  background: linear-gradient(0deg, gold 0%, rgba(99,99,99,1) 100%);
+}
+.tint-6 {
+  background: linear-gradient(0deg, blue 0%, rgba(99,99,99,1) 100%);
+}
+.tint-7 {
+  background: linear-gradient(0deg, black 0%, rgba(99,99,99,1) 100%);
+}
+.tint-8 {
+  background: linear-gradient(0deg, chocolate 0%, rgba(99,99,99,1) 100%);
+}
+.tint-9 {
+  background: linear-gradient(0deg, orange 0%, rgba(99,99,99,1) 100%);
 }
 
-.bio-avatar {
-  margin-right: var(--spacing-4);
-  margin-bottom: var(--spacing-0);
-  min-width: 50px;
-  border-radius: 100%;
-}
 
 
 
