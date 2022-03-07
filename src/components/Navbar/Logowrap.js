@@ -3,7 +3,7 @@ import { StaticImage } from "gatsby-plugin-image"
 
 const Logowrap = () => {
 	return(
-		<div>
+		<div className="logo-frame">
 			<StaticImage
 				className="tiny-icon"
 				layout="fixed"
