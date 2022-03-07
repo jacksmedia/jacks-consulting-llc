@@ -8,9 +8,9 @@ const Logowrap = () => {
 				className="tiny-icon"
 				layout="fixed"
 				formats={["AUTO", "WEBP", "AVIF"]}
-				src="./logo.png"
-				width={77}
-				height={77}
+				src="./jm.png"
+				width={123}
+				height={71}
 				quality={95}
 				alt="Jacks Media WAGMI"
         />
