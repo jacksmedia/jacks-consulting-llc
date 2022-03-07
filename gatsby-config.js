@@ -1,24 +1,24 @@
 module.exports = {
   siteMetadata: {
-    title: `Jacks Consulting LLC`,
+    title: `Jacks Media`,
     author: {
-      name: `J4cks`,
-      summary: `a human crypto-currency enthusiast just like you. `,
+      name: `J4cks.com`,
+      summary: `DIY NFT WAGMI fren`,
     },
-    description: `Guide to getting started with cryptocurrency.`,
+    description: `Guide to getting started with ENFTs`,
     siteUrl: `https://j4cks.com/`,
     social: {
-      twitter: `__j4cks__`,
+      twitter: `j4cksRvn`,
     },
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Jacks Consulting LLC`,
+        name: `JacksMedia`,
         short_name: `J4cks.com`,
         start_url: `/`,
-        background_color: `#0005FF`,
+        background_color: `#62D1FC`,
         theme_color: `#DD3C00`,
         display: `standalone`,
         icon: `src/images/gatsby-icon.png`,

@@ -271,9 +271,6 @@ ul, ol {
 }
 @keyframes fun-summertime-palette-text {
   0% {
-    color: navy; 
-  }
-  20% {
     color: tomato; 
   }
   40% {
@@ -282,20 +279,17 @@ ul, ol {
   60% {
     color: fuchsia; 
   }
-  80% {
-    color: blue; 
-  }
 }
 
 @keyframes veggie-creamsicle-palette-text {
   0% {
-    color: white; 
+    color: red; 
   }
   50% {
     color: tomato; 
   }
   100% {
-    color: white; 
+    color: navy; 
   }
 }
 

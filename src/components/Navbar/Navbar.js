@@ -7,7 +7,7 @@ const TopBar = styled.nav`
   min-height: 72px;
   height: 10vh;
   display: flex;
-  background: linear-gradient(#DD3C00, #0500FF);
+  background: linear-gradient(#62D1FC, #BDF6F8, #DD3C00);
   position: relative;
   justify-content: space-between;
   align-items: center;
@@ -94,7 +94,7 @@ const Navbar = () => {
 
   return (
     <TopBar>
-      <Logowrap />
+      <a href="/"><Logowrap /></a>
       <Toggle
         navbarOpen={navbarOpen}
         onClick={() => setNavbarOpen(!navbarOpen)}

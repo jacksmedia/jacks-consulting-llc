@@ -1,11 +1,13 @@
 import React, { useState, setState } from "react"
 import { Link, graphql } from "gatsby"
+import { StaticImage } from 'gatsby-plugin-image'
 import styled from "styled-components"
 import TransitionLink from "gatsby-plugin-transition-link"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 import Imager from "../components/imager"
 import IO from "../components/io"
 import Layout from "../components/layout"
+import { AnimationOnScroll } from 'react-animation-on-scroll'
 import SEO from "../components/seo"
 
 const Post = styled.li`
@@ -50,15 +52,30 @@ const BlogIndex = ({ data, location }) => {
                     itemScope
                     itemType="http://schema.org/Article"
                   >
+                  {/*
+                  <StaticImage
+                    className="tiny-icon center"
+                    layout="fixed"
+                    formats={["AUTO", "WEBP", "AVIF"]}
+                    src="../images/4epicNFTs.png"
+                    width={185}
+                    height={185}
+                    quality={95}
+                    alt="Unbanker Society Members "
+                  />
+                  */}
                     <Imager
                       imageInfo={{
                         image: post.frontmatter.featuredimage,
                         alt: `featured image thumbnail for post ${post.frontmatter.title}`,
                       }}
                      />
-                    <h2 className="landingpage-blogtitle glowy-text">
-                      <span itemProp="headline">{title}</span>
-                    </h2>
+                    <AnimationOnScroll animateIn="animate__fadeInUp">
+                      <h2 className="landingpage-blogtitle glowy-text">
+                        <span itemProp="headline">{title}</span>
+                      </h2>
+                    </AnimationOnScroll>
+                    
                     <span
                       dangerouslySetInnerHTML={{
                         __html: post.frontmatter.description || post.excerpt,

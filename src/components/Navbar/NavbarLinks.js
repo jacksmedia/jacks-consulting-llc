@@ -5,7 +5,6 @@ import { Link } from "gatsby"
 const NavbarLinks = () => {
   return (
     <>
-      <NavItem to="/" className="is-hoverable creamsicle-text">Home/Blog</NavItem>
       <NavItem to="/projects" className="is-hoverable creamsicle-text">Projects</NavItem>
       <NavItem to="/media" className="is-hoverable creamsicle-text">Jacks.Media</NavItem>
       <NavItem to="/mining" className="is-hoverable creamsicle-text">Mining</NavItem>

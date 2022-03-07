@@ -4,6 +4,8 @@ title: NFTs and Crypto ⛓🖼🔬
 date: "2021-09-11T08:46:40.007Z"
 description: Collectibles that pay you weekly, unlike Pokemon cards
 ---
+![4 epic Elrond NFTs](/4epicNFTs.png)
+
 > Nothing Below is Financial Advice
 
 🛫 Welcome to the future! 

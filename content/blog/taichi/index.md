@@ -20,6 +20,10 @@ description: Daily practice with these videos can help your body heal & grow str
 - [🔵 Ming Men ~ Door of Life](https://www.youtube.com/watch?v=8wddPSIEpvE)
 - [🟤 Daily Practice](https://www.youtube.com/watch?v=nmmNWj9YtAw)
 
+# Yoga w Adriene
+- [Neck Hygiene 🪴🐕](https://www.youtube.com/watch?v=Ba0fweKUwIc&t=22s)
+
+
 # Sequence of Days 40 x 9 = 360 days
 <table>
 	<tr>
