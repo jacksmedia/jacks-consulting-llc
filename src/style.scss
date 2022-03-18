@@ -356,6 +356,11 @@ a:focus {
   padding: 1px;
 }
 
+.try1 {
+  background: url("./images/underworld.jpg");
+  -webkit-background-clip: text;
+}
+
 /* for callouts and special copy  */
 .floatybox {
   max-width: 89vw;

@@ -14,6 +14,7 @@ description: Daily practice with these videos can help your body heal & grow str
 - [Spinning the Silken Wheel 🕸☸️](https://www.youtube.com/watch?v=LZ2oHU-mMJI)
 - [Qi Gong for Anxiety 🎱🌈](https://www.youtube.com/watch?v=ED3_i_xVd_s)
 
+
 # Marisa's YoQi
 - [⚪️ Mood Lifter](https://www.youtube.com/watch?v=HMbT-CPVl2k)
 - [🟢 Beginners' Flow](https://www.youtube.com/watch?v=IyINAjEoTIs)
@@ -21,7 +22,9 @@ description: Daily practice with these videos can help your body heal & grow str
 - [🟤 Daily Practice](https://www.youtube.com/watch?v=nmmNWj9YtAw)
 
 # Yoga w Adriene
-- [Neck Hygiene 🪴🐕](https://www.youtube.com/watch?v=Ba0fweKUwIc&t=22s)
+- [Neck Hygiene 🪴🐕⏳](https://www.youtube.com/watch?v=X3-gKPNyrTA)
+- [Neck & Shoudler Relief 🪴🐕⌛️](https://www.youtube.com/watch?v=SedzswEwpPw)
+- [Calm Your Nerves w Yoga 🐽](https://www.youtube.com/watch?v=Ba0fweKUwIc)
 
 
 # Sequence of Days 40 x 9 = 360 days
