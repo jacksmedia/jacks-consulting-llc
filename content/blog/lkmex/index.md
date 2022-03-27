@@ -4,9 +4,9 @@ date: "2021-05-23T12:51:51.217Z"
 description: What is LKMEX? How to Use it?
 ---
 <figure>
-<img src="./21 shibs.png" alt="21 Elrond Shibas in 2022Q1" style="width:100%">
+<img src="./21 shibs.png" alt="14 Elrond Shibas in 2022Q1" style="width:100%">
 <figcaption align="center">
-21 Elrond Shibas in 2022Q1
+14 Elrond Shibas in 2022Q1
 </figcaption>
 </figure>
 # LKMEX & Passive Rewards
