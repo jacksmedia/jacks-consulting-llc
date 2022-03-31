@@ -11,15 +11,15 @@ description: Daily practice with these videos can help your body heal & grow str
 - [⬛️ Module ⓸ ](https://www.youtube.com/watch?v=RoIqYtiTLFI)
 - [🟧 Module ⓹ ](https://www.youtube.com/watch?v=62a20CiIAlY)
 
-- [Spinning the Silken Wheel 🕸☸️](https://www.youtube.com/watch?v=LZ2oHU-mMJI)
-- [Qi Gong for Anxiety 🎱🌈](https://www.youtube.com/watch?v=ED3_i_xVd_s)
+- [Spinning the Silken Wheel 🕸☸️](https://www.youtube.com/watch?v=LZ2oHU-mMJI?t=25)
+- [Qi Gong for Anxiety 🎱🌈](https://youtu.be/ED3_i_xVd_s?t=54)
 
 
 # Marisa's YoQi
 - [⚪️ Mood Lifter](https://www.youtube.com/watch?v=HMbT-CPVl2k)
 - [🟢 Beginners' Flow](https://www.youtube.com/watch?v=IyINAjEoTIs)
 - [🔵 Ming Men ~ Door of Life](https://www.youtube.com/watch?v=8wddPSIEpvE)
-- [🟤 Daily Practice](https://www.youtube.com/watch?v=nmmNWj9YtAw)
+- [🟤 Daily Practice](https://www.youtube.com/watch?v=nmmNWj9YtAw?t=49)
 
 # Yoga w Adriene
 - [🔶 Neck Hygiene 🪴🐕⏳](https://www.youtube.com/watch?v=X3-gKPNyrTA)

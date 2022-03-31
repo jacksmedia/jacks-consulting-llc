@@ -11,7 +11,7 @@ description: What is LKMEX? How to Use it?
 </figure>
 # LKMEX & Passive Rewards
 
-Elrond Shibas are amazing, right?? They bring you LKMEX every week (usually Shiba Saturdays) but what is LIKMEX and how to use it?
+Elrond Shibas are amazing, right?? They bring you LKMEX every week (usually Shiba Saturdays) but what is LKMEX and how to use it?
 
 # LKMEX?
 
@@ -21,7 +21,7 @@ MEX is the Maiar Exchange token, and it becomes Egold directly if you wish. Lock
 LKMEX unlocks in 24 months but you can stake it like in other DeFi systems right in the Maiar exchange. 
 
 
-If you stake it earns approx 100% apy moar LKMEX! Keep doing this a bit, and then the Option 2 of staking it for MEX looks good, bc you'll be able to start swapping out MEX for raw EGLD at this point!
+If you stake it earns approx 100% apy moar LKMEX! Keep doing this a bit, and then the Option 2 of staking it for MEX looks good, bc you'll be able to start swapping out MEX for raw Egold at this point!
 
 
 [Go to the elrond Explorer](https://explorer.elrond.com) to find your LKMEX drops.
@@ -30,9 +30,9 @@ Here's a visual flow of what to do.
 <figure>
 <img src="./findingLKMEX.png" alt="how to find your LKMEX on the exchange dot elrond dot com site" style="width:100%">
 <figcaption align="center">
-Click on the SC section, it's far down the page.
-Scroll down, look for the timestamp of the transaction.
-CLick on the likely Elrond Shibas transaction. You'll see LKMEX tokens recevied (with a lot of metadata, too).
+<p>Click on the SC section, it's far down the page.</figcaption></p>
+<p>Scroll down, look for the timestamp of the transaction.</p>
+<p>Click on the likely Elrond Shibas transaction. You'll see LKMEX tokens recevied (with a lot of metadata, too).</p>
 </figcaption>
 </figure>
 
