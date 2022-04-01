@@ -9,7 +9,7 @@ description: Daily practice with these videos can help your body heal & grow str
 - [🟥 Module ⓶ ](https://www.youtube.com/watch?v=enk0bOv-gF8)
 - [🟨 Module ⓷ ](https://www.youtube.com/watch?v=OPcZlXYcdMA)
 - [⬛️ Module ⓸ ](https://www.youtube.com/watch?v=RoIqYtiTLFI)
-- [🟧 Module ⓹ ](https://www.youtube.com/watch?v=62a20CiIAlY)
+- [🟧 Module ⓹ ](https://www.youtube.com/watch?v=62a20CiIAlY?t=25)
 
 - [Spinning the Silken Wheel 🕸☸️](https://www.youtube.com/watch?v=LZ2oHU-mMJI?t=25)
 - [Qi Gong for Anxiety 🎱🌈](https://youtu.be/ED3_i_xVd_s?t=54)
