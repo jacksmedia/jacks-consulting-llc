@@ -5,9 +5,9 @@ description: Daily practice with these videos can help your body heal & grow str
 ---
 
 # Leia Cohen's Taiflow, Tai Chi for Beginners
-- [🟪 Module ⓵ ](https://www.youtube.com/watch?v=cEOS2zoyQw4)
-- [🟥 Module ⓶ ](https://www.youtube.com/watch?v=enk0bOv-gF8)
-- [🟨 Module ⓷ ](https://www.youtube.com/watch?v=OPcZlXYcdMA)
+- [🟪 Module ⓵ ](https://www.youtube.com/watch?v=cEOS2zoyQw4?t=89)
+- [🟥 Module ⓶ ](https://www.youtube.com/watch?v=enk0bOv-gF8?t=17)
+- [🟨 Module ⓷ ](https://www.youtube.com/watch?v=OPcZlXYcdMA?t=31)
 - [⬛️ Module ⓸ ](https://www.youtube.com/watch?v=RoIqYtiTLFI)
 - [🟧 Module ⓹ ](https://www.youtube.com/watch?v=62a20CiIAlY?t=25)
 
@@ -16,14 +16,14 @@ description: Daily practice with these videos can help your body heal & grow str
 
 
 # Marisa's YoQi
-- [⚪️ Mood Lifter](https://www.youtube.com/watch?v=HMbT-CPVl2k)
-- [🟢 Beginners' Flow](https://www.youtube.com/watch?v=IyINAjEoTIs)
-- [🔵 Ming Men ~ Door of Life](https://www.youtube.com/watch?v=8wddPSIEpvE)
-- [🟤 Daily Practice](https://www.youtube.com/watch?v=nmmNWj9YtAw?t=49)
+- [⚪️ Mood Lifter](https://www.youtube.com/watch?v=HMbT-CPVl2k?t=33)
+- [🟢 Beginners' Flow](https://www.youtube.com/watch?v=IyINAjEoTIs?t=80)
+- [🔵 Ming Men ~ Door of Life](https://www.youtube.com/watch?v=8wddPSIEpvE?t=54)
+- [🟤 Daily Practice](https://www.youtube.com/watch?v=nmmNWj9YtAw?t=60)
 
 # Yoga w Adriene
-- [🔶 Neck Hygiene 🪴🐕⏳](https://www.youtube.com/watch?v=X3-gKPNyrTA)
-- [🔷 Neck & Shoudler Relief 🧣🪴🐕⌛️](https://www.youtube.com/watch?v=SedzswEwpPw)
+- [🔶 Neck Hygiene 🪴🐕⏳](https://www.youtube.com/watch?v=X3-gKPNyrTA?t=26)
+- [🔷 Neck & Shoudler Relief 🧣🪴🐕⌛️](https://www.youtube.com/watch?v=SedzswEwpPw?t=51)
 - [♦️ Calm Your Nerves w Yoga 🐽🪴🐕🕰](https://www.youtube.com/watch?v=Ba0fweKUwIc)
 
 
